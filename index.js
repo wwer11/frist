@@ -182,20 +182,93 @@
 
 
 
-var a = 10;
-var b = 1;
+// var a = 10;
+// var b = 1;
 
-// if(a > b){
+// // if(a > b){
+// //     console.log("see you not for mind")
+// // }
+// if(a < b){
 //     console.log("see you not for mind")
+
 // }
-if(a < b){
-    console.log("see you not for mind")
+// else{
+//     console.log("bol")
+
+// }
+
+
+
+
+
+
+// var s = 7;
+// var r = 7;
+
+// if(s > r){
+//     console.log("s boro")
+// }
+// else if(s < r){
+//     console.log("r boro")
+
+// } 
+    
+// else{
+//     console.log("both are same")
+// }
+
+
+
+
+
+
+
+
+ 
+
+
+// var sonka = 40;
+
+
+// switch(sonka){
+//     case 45:
+//         console.log("this is 45");
+        break;
+//         case 56:
+//             console.log("this is 56");
+            break;
+//             case 40:
+//             console.log("this is correct 40");
+            break;
+
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+var sonka = 40;
+
+
+switch(sonka){
+    case 45:
+        console.log("this is 45");
+        // break;
+        case 56:
+            console.log("this is 56");
+            // break;
+            case 40:
+            console.log("this is correct 40");
+            // break;
 
 }
-else{
-    console.log("bol")
-}
-
 
 
 
