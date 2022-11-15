@@ -257,18 +257,7 @@
 var sonka = 40;
 
 
-switch(sonka){
-    case 45:
-        console.log("this is 45");
-        // break;
-        case 56:
-            console.log("this is 56");
-            // break;
-            case 40:
-            console.log("this is correct 40");
-            // break;
 
-}
 
 
 
