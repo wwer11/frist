@@ -190,6 +190,10 @@ var b = 1;
 // }
 if(a < b){
     console.log("see you not for mind")
+
+}
+else{
+    console.log("bol")
 }
 
 
