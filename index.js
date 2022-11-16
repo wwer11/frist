@@ -370,6 +370,31 @@
 
 
 
-var friends = ["sa", "ki","b","sakib"]
-friends.splice(2,3, "MD");
-console.log(friends);s
+// var friends = ["sa", "ki","b","sakib"]
+// friends.splice(2,3, "MD");
+// console.log(friends);
+
+
+
+
+
+
+
+// for(var sonka = 1; sonka < 5; sonka++){
+// console.log("sakib")
+// }
+
+
+
+// for(var sonka = 1; sonka <= 5; sonka++){
+//         console.log("sak")
+//         }
+
+
+
+
+
+// var Num = [0,1,3,4,5,6,7,8,9]
+// for(var sonka= 0; sonka < Num.length; sonka++){
+//         console.log(Num[sonka])
+// }
