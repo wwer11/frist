@@ -233,13 +233,13 @@
 // switch(sonka){
 //     case 45:
 //         console.log("this is 45");
-        // break;
+//         break;
 //         case 56:
 //             console.log("this is 56");
-            // break;
+//             break;
 //             case 40:
 //             console.log("this is correct 40");
-            // break;
+//             break;
 
 // }
 
@@ -398,3 +398,117 @@
 // for(var sonka= 0; sonka < Num.length; sonka++){
 //         console.log(Num[sonka])
 // }
+
+
+
+// var sonka = 10;
+
+// while(sonka => 4 ){
+// console.log(sonka);
+// sonka++
+// }
+
+
+
+
+
+
+
+
+
+// var sonka = 10;
+
+// while(sonka <= 20 ){
+// console.log(sonka);
+// sonka++
+// }
+
+
+
+
+
+
+
+
+
+// function un(){
+//         var num1 = 30;
+//         var num =50;
+//         console.log(num * num)
+// }
+
+// un()
+// un()
+// un()
+// un()
+// un()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function un(num1, num2){
+//         var total = num1 + num2
+//         console.log(total)
+// }
+
+// un(30, 40);
+// un(50, 78);
+// un(89, 90);
+// un(78, 9);
+
+
+
+
+
+
+
+
+
+
+
+
+// var myInfo = {YourName:"Sakib", Village:"Rajproshad", Phone:4587498 }
+
+// console.log(myInfo.Village)
+
+// console.log(myInfo)
+
+
+
+
+
+
+
+
+
+// function MyInfo(name,village,phone){
+//         this.name = name;
+//         this.village = village;
+//         this.phone = phone;
+//         this.jekeno = function(){
+//                 console.log(this.name);
+//                 console.log(this.village);
+//                 console.log(this.phone);
+//         }
+// }
+
+// var amarObj1 = new MyInfo("sakib", "rajproshad", 87458)
+
+// var amarObj2 = new MyInfo("sakdfib", "rajprogshad", 874558)
+
+// var amarObj3 = new MyInfo("saksib", "rajprfoshad", 874538)
+
+
+// amarObj1.jekeno();
+// amarObj2.jekeno();
+// amarObj3.jekeno();
