@@ -182,16 +182,194 @@
 
 
 
-var a = 10;
-var b = 1;
+// var a = 10;
+// var b = 1;
 
-// if(a > b){
+// // if(a > b){
+// //     console.log("see you not for mind")
+// // }
+// if(a < b){
 //     console.log("see you not for mind")
+
 // }
-if(a < b){
-    console.log("see you not for mind")
-}
+// else{
+//     console.log("bol")
+
+// }
 
 
 
 
+
+
+// var s = 7;
+// var r = 7;
+
+// if(s > r){
+//     console.log("s boro")
+// }
+// else if(s < r){
+//     console.log("r boro")
+
+// } 
+    
+// else{
+//     console.log("both are same")
+// }
+
+
+
+
+
+
+
+
+ 
+
+
+// var sonka = 40;
+
+
+// switch(sonka){
+//     case 45:
+//         console.log("this is 45");
+        // break;
+//         case 56:
+//             console.log("this is 56");
+            // break;
+//             case 40:
+//             console.log("this is correct 40");
+            // break;
+
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+// var sonka = 40;
+
+
+// switch(sonka){
+//     case 45:
+//         console.log("this is 45");
+       
+//         case 56:
+//             console.log("this is 56");
+            
+//             case 40:
+//             console.log("this is correct 40");
+            
+
+// }
+
+
+
+
+
+// var datesure = new Date();
+// console.log(datesure.toTimeString());
+// console.log(datesure.toLocaleDateString());
+// console.log(datesure.toLocaleTimeString());
+// console.log(datesure.getMonth());
+// console.log(datesure.getDate());
+// console.log(datesure.getMinutes());
+// console.log(datesure.getSeconds());
+// console.log(datesure.getMilliseconds());
+
+
+
+
+
+
+
+
+// var fdName = ["sa", "ki", "b"];
+// console.log(fdName[2]);
+// console.log(fdName[0]);
+
+
+// var fd = fdName[0]
+// console.log(fd);
+
+// fdName[2] = 40;
+// console.log(fdName);
+
+
+
+
+
+
+
+
+
+// var friends = ["sa", "ki","b"]
+// friends.push('sakib');
+// console.log(friends);
+
+
+// var friends = ["sa", "ki","b"]
+// friends.push(23);
+// console.log(friends);
+
+
+
+
+
+// var friends = ["sa", "ki","b"]
+// friends.push(23);
+// friends.pop();
+// console.log(friends);
+
+
+
+
+
+// var friends = ["sa", "ki","b"]
+// friends.shift();
+// console.log(friends);
+
+
+
+
+
+// var friends = ["sa", "ki","b"]
+// friends.unshift("sakib");
+// console.log(friends);
+
+
+
+
+
+
+
+
+
+// var friends = ["sa", "ki","b","sakib"]
+// // friends.slice();
+// console.log(friends.slice(1,4));
+
+
+
+
+
+// var friends = ["sa", "ki","b","sakib"]
+// friends.splice(0,3, "MD");
+// console.log(friends);
+
+
+
+
+
+
+
+var friends = ["sa", "ki","b","sakib"]
+friends.splice(2,3, "MD");
+console.log(friends);s
