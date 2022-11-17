@@ -49,7 +49,7 @@
 
 
 
-// var sonka = 765.977;
+// var sonka = 3;
 // var sonka = 766;
 
 // sonka = parseInt(sonka);
